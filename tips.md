@@ -1,4 +1,4 @@
-# Exam Tips, Tricks & Day-of Checklist
+# Exam Tips, Tricks and Day-of Checklist
 
 ---
 
