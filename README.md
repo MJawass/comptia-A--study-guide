@@ -1,8 +1,7 @@
 # MJ's CompTIA A+ Study Guide
 -> My personal study guide for the CompTIA A+ Certification ! >v<
 
-#### Welcome to your central hub for preparing for the CompTIA A+ certification as of August 2025. 
-Organized by exam, topic, and resource.
+#### Welcome to your central hub for preparing for the CompTIA A+ certification as of August 2025. Organized by exam, topic, and resource.
 
 ---
 
