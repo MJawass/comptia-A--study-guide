@@ -1,7 +1,7 @@
-# CompTIA A+ Comprehensive Study Course
+# Welcome to MJ's CompTIA A+ Study Guide
 
-Welcome to your all-in-one CompTIA A+ (220-1101 & 220-1102) study guide!  
-_Last updated: August 2025_
+Welcome to your all-in-one CompTIA A+ (220-1101 & 220-1102 - 1st n 2nd test) study guide!  
+_Last updated: August 20th 2025_
 
 ## Course Structure
 
@@ -19,7 +19,6 @@ _Last updated: August 2025_
 
 ---
 
-🌐 **This site is powered by [GitHub Pages](https://pages.github.com/) – bookmark for easy access anytime!**
 ```
 
 ***
@@ -32,4 +31,4 @@ _Last updated: August 2025_
 
 ***
 
-By following these steps, you’ll have a constantly updated and easily accessible website for your CompTIA A+ preparation!
+Thanks for the visit!
