@@ -1,2 +1,2 @@
-# comptia-A--study-guide
-My study guide to earn the CompTIA A+ certification
+# MJ's CompTIA A+ Study Guide
+My personal study guide for the CompTIA A+ Certification ! >v<
