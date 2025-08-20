@@ -1,10 +1,8 @@
 # MJ's CompTIA A+ Study Guide
 -> My personal study guide for the CompTIA A+ Certification ! >v<
 
-## CompTIA A+ (220-1101 & 220-1102) Study Guide & Resource Directory
-
-Welcome to your central hub for preparing for the CompTIA A+ certification as of August 2025.  
-Organized by exam, topic, and resource.
+## Welcome to your central hub for preparing for the CompTIA A+ certification as of August 2025.  
+## - Organized by exam, topic, and resource.
 
 ---
 
